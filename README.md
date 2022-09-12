@@ -6,8 +6,8 @@ A project that stretched my understanding of Neural Networks especially CNN’s 
 ### Keras
 ### Python  
 # Python Libraries  
-Open CV
-Numpy
-Pandas
-Matplotlib
-and more ...
+-  Open CV
+-  Numpy
+-  Pandas
+-  Matplotlib
+-  and more ...
